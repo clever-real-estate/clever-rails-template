@@ -1,0 +1,3 @@
+[submodule ".cursor/rules/rails"]
+	path = .cursor/rules/rails
+	url = git@github.com:clever-real-estate/cursor-rules-rails.git
