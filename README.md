@@ -8,10 +8,10 @@ A set of Rails application templates optimized for modern development with compr
 
 ```bash
 # API-only application
-./clever-rails new myapp api
+clever-rails new myapp api
 
 # Fullstack application
-./clever-rails new myapp fullstack
+clever-rails new myapp fullstack
 ```
 
 The wrapper script automatically applies the correct flags:
